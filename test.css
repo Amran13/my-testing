@@ -15,6 +15,7 @@ header .container nav{
 }
 header .container .right .left{
     display: flex;
+    
 }
 .container nav li{
     list-style-type: none;
@@ -23,6 +24,9 @@ header .container .right .left{
     text-decoration: none;
     color: white;
     margin-right: 2.5rem;
+}
+header section.main{
+    margin-top: 6rem;
 }
 header .main .left h1{
     font-size: 64px;
